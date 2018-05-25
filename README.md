@@ -18,4 +18,9 @@ npm run build
 npm run build --report
 ```
 
+## 项目截图
+![首页](https://raw.githubusercontent.com/Anonymous-Monk/shop-mpvue/master/ScreenShots/01.png)
+![分类](https://raw.githubusercontent.com/Anonymous-Monk/shop-mpvue/master/ScreenShots/02.png)
+![购物车](https://raw.githubusercontent.com/Anonymous-Monk/shop-mpvue/master/ScreenShots/03.png)
+![我的](https://raw.githubusercontent.com/Anonymous-Monk/shop-mpvue/master/ScreenShots/04.png)
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
