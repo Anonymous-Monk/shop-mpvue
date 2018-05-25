@@ -1,6 +1,6 @@
 # shop-mpvue
 
-> A Mpvue project
+> 使用 Mpvue 写的微信小程序
 
 ## Build Setup
 
